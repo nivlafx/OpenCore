@@ -1,6 +1,12 @@
-RIP, Google no longer supports MacOS to build Android so think will no longer be updated, please see thread by [Vovinacci](https://github.com/vovinacci/OpenCore-ASUS-ROG-MAXIMUS-XI-HERO)
+# OpenCore 8.7
+ An opencore package for ASUS TUF GAMING Z690-PLUS WIFI D4 on macOS Monterey 12.3.1
 
-# OpenCore 6.7
- An opencore package for ASUS Rog Maximus XI Hero (Wifi) on MacOS BigSur 11.2.3
+# Parts List
 
-Original git by [Vovinacci](https://github.com/vovinacci/OpenCore-ASUS-ROG-MAXIMUS-XI-HERO)
+Intel Core i7-12700K
+
+ASUS TUF Gaming Z690-Plus Wifi D4
+
+T-FORCE Delta 32GB 3600Mhz DDR4 RAM
+
+AMD Radeon 5700XT 8 GB
