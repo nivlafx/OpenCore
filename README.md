@@ -1,4 +1,4 @@
-# OpenCore 8.0
+# OpenCore 8.1
  An opencore package for ASUS TUF GAMING Z690-PLUS WIFI D4 on macOS Monterey 12.3.1
 
 # Parts List
